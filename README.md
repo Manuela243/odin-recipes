@@ -1,6 +1,9 @@
 # odin-recipes
 <!--In the beggining it all looks lifeless since I will only use HTML-->
 
+<!--This is my first ever assignment, so to show off my knowledge, I will write down
+as I pass each part of it, what is new that I learned and how I used it-->
+
 ## First assignment
 <p>For my first assignment from The Odin Project I will make a web page: <br>
  
