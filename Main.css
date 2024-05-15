@@ -1,0 +1,51 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+h1 {
+    color: black;
+    background-color: rgb(191, 248, 245);
+    text-align: left;
+    width: 285px;
+    padding: 10px;
+    border: 4px solid yellow;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Had problems with background color being from left to right, fixed it with width*/
+
+h2, h3 {
+    font-size: 25px;
+    color: black;
+    background-color: rgb(191, 248, 245);
+    text-align: left;
+    width: 210px;
+    padding: 10px;
+    border: 4px solid rgb(245, 203, 119);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-picture {
+   display: block;
+   margin: auto;
+   border: 3px dotted orange;
+}
+/*Centered the main image of dish*/
+
+p {
+    font-size: 20px;
+    text-align: left;
+    margin: 15px;
+}
+
+li {
+    font-size: 20px;
+    margin: 7px;
+    height: 30px;
+}
+
+
