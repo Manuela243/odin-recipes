@@ -29,6 +29,8 @@ h2, h3 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Important to put COMMA between for CSS to work*/
+
 .main-picture {
    display: block;
    margin: auto;
@@ -48,4 +50,12 @@ li {
     height: 30px;
 }
 
-
+blockquote, li, .lemontiramisu {
+    height: auto;
+    width: 1400px;
+    margin: 5px;
+}
+/*Was changing a lot - used more specificity to add to "Lemon Tiramisu Recipe" different style. Problems with "li",
+to be exact, had problem with border, margin and padding.
+Finally realized that the computed layout was not wide enough for all the content, what messed up everything.
+Had to visualize a box. Then it worked.*/
