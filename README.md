@@ -4,7 +4,7 @@
 <!--This is my first ever assignment, so to show off my knowledge, I will write down
 as I pass each part of it, what is new that I learned and how I used it-->
 
-## First assignment
+# First assignment
 <p>For my first assignment from The Odin Project I will make a web page: <br>
  
 <!--Still trying to figure out if this is an okay way to have breaks between the paragraphs-->
@@ -18,10 +18,14 @@ as I pass each part of it, what is new that I learned and how I used it-->
 <!--Later I will add more, but for now I will not use lists since there is only
 one language I will use at the beggining-->
 
-<p><strong>HTML</strong></p>
+<p><strong>HTML CSS</strong></p>
 <p>For start, I will only be using HTML to make structure for my web page. </p>
 <p>Later on, I will come back to use CSS to make it visiable appealing.</p>
 <p>Made this using <strong>Virtual Box, on <em>Xubuntu Linux.</em> </strong></p>
+<hr>
+
+# Second assignment
+<p>After going through lesson about CSS, for next task I added CSS to my recipe pages.</p>
 
 <!--Since I started, I have been using Linux and I use Visual Code Studio. I downloaded everything
 myself, with no help but by using Google-->
