@@ -1,10 +1,3 @@
-html {
-    box-sizing: border-box;
-  }
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
-  
 h1 {
     color: black;
     background-color: rgb(191, 248, 245);
@@ -59,3 +52,14 @@ blockquote, li, .lemontiramisu {
 to be exact, had problem with border, margin and padding.
 Finally realized that the computed layout was not wide enough for all the content, what messed up everything.
 Had to visualize a box. Then it worked.*/
+
+aside {
+    background-color: rgb(242, 228, 211);  
+    text-align: right;
+}
+
+/*Will add it to the right side, as a side note - written 27.5.24.*/
+
+.avocado {
+    color: #4e932c;
+}
